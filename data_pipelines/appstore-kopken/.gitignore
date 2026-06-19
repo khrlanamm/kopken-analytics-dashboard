@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large Model Weights & Training Checkpoints
+**/weights/
+**/results/
+**/logs/
+
+# Agent Metadata & Knowledge Graphs
+.agents/
+graphify-out/

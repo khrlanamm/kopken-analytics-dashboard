@@ -1,0 +1,161 @@
+{
+  "totalReviews": 7811,
+  "appRating": 4.83,
+  "mapsRating": 4.18,
+  "sentimentDistribution": [
+    {
+      "name": "Positive",
+      "value": 6983,
+      "fill": "var(--color-positive, #16a34a)"
+    },
+    {
+      "name": "Neutral",
+      "value": 150,
+      "fill": "var(--color-neutral, #9ca3af)"
+    },
+    {
+      "name": "Negative",
+      "value": 678,
+      "fill": "var(--color-negative, #dc2626)"
+    }
+  ],
+  "trendData": [
+    {
+      "name": "Aug 2025",
+      "app_sentiment": 96,
+      "maps_sentiment": 78
+    },
+    {
+      "name": "Sep 2025",
+      "app_sentiment": 96,
+      "maps_sentiment": 80
+    },
+    {
+      "name": "Oct 2025",
+      "app_sentiment": 97,
+      "maps_sentiment": 79
+    },
+    {
+      "name": "Nov 2025",
+      "app_sentiment": 97,
+      "maps_sentiment": 79
+    },
+    {
+      "name": "Dec 2025",
+      "app_sentiment": 96,
+      "maps_sentiment": 81
+    },
+    {
+      "name": "Jan 2026",
+      "app_sentiment": 96,
+      "maps_sentiment": 79
+    },
+    {
+      "name": "Feb 2026",
+      "app_sentiment": 95,
+      "maps_sentiment": 78
+    },
+    {
+      "name": "Mar 2026",
+      "app_sentiment": 93,
+      "maps_sentiment": 76
+    },
+    {
+      "name": "Apr 2026",
+      "app_sentiment": 97,
+      "maps_sentiment": 78
+    },
+    {
+      "name": "May 2026",
+      "app_sentiment": 96,
+      "maps_sentiment": 78
+    },
+    {
+      "name": "Jun 2026",
+      "app_sentiment": 96,
+      "maps_sentiment": 79
+    }
+  ],
+  "recentReviews": [
+    {
+      "id": "app-recent-0",
+      "source": "Play Store",
+      "date": "2026-06-18",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopinya bikin melek semaleman"
+    },
+    {
+      "id": "app-recent-1",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "sip bagus"
+    },
+    {
+      "id": "app-recent-2",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagus banget"
+    },
+    {
+      "id": "app-recent-3",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "suka aj sama promo dan rasa kopi kopi nya enak"
+    },
+    {
+      "id": "app-recent-4",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "varian bnyak jadi g bosen meski tiap hari🤩"
+    },
+    {
+      "id": "maps-recent-0",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Sekarang udah jadi Kenangan boulangerie, semakin keren tempatnya dan lebih banyak pilihan rotinya. Ada mesin untuk self order juga. Ada banyak colokan juga buat yang mau sambil wfc. Kopi nya juga makin banyak pilihan walau kopi kenangan mantan masih jadi favorit 😄 … Lainnya"
+    },
+    {
+      "id": "maps-recent-1",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Outlet kopi kenangan versi premium... The best banget pelayanan dan suasananya. Sangat mewah\nJenis pe…\nLainnya"
+    },
+    {
+      "id": "maps-recent-2",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kalo makan siang sering beli kopken walaupun antrian panjang banget tapi pelayanannya tetep gercep salut banget👍kopinya juga enakkk banget😋🫰 … Lainnya"
+    },
+    {
+      "id": "maps-recent-3",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Semuanya pasti udh pd tau sm KopKen kan..\nUtk tempatnya di sini bagus/cozy, mirip kafe sekelas st*rb*cks, enak utk meet-up dgn tmn2, & dgn harga yg lbh affordable. Cm kl hr Minggu, suka rame bgt susah dpt tempat.. Lainnya"
+    },
+    {
+      "id": "maps-recent-4",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Pilihan kopi yg menyenangkan dengan harga standar di tengah2 mall yg memiliki banyak gerai dgn harga lbh mahal. Rasa2nya baru kali ini saya melihat KopKen dengan tempat duduk yg cukup banyak dan interior yg cantik di mall. Atau mgkn sayanya … Lainnya"
+    }
+  ]
+}

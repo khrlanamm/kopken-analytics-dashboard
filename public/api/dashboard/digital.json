@@ -1,0 +1,1248 @@
+{
+  "appAspectData": [
+    {
+      "aspect": "UI/UX & Performance",
+      "positive": 14,
+      "neutral": 16,
+      "negative": 71
+    },
+    {
+      "aspect": "Price & Promos",
+      "positive": 37,
+      "neutral": 16,
+      "negative": 46
+    },
+    {
+      "aspect": "Staff Service",
+      "positive": 21,
+      "neutral": 13,
+      "negative": 66
+    },
+    {
+      "aspect": "Service Speed",
+      "positive": 12,
+      "neutral": 12,
+      "negative": 76
+    },
+    {
+      "aspect": "Menu Availability",
+      "positive": 18,
+      "neutral": 9,
+      "negative": 72
+    },
+    {
+      "aspect": "Ordering Process",
+      "positive": 7,
+      "neutral": 7,
+      "negative": 85
+    },
+    {
+      "aspect": "Delivery App",
+      "positive": 11,
+      "neutral": 2,
+      "negative": 87
+    }
+  ],
+  "reviewsTable": [
+    {
+      "id": "9e9c457f-c956-468b-90ea-18c2869131fe",
+      "source": "Play Store",
+      "date": "2026-06-18",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopinya bikin melek semaleman"
+    },
+    {
+      "id": "31dc72cd-f9ba-4e50-a59b-8801b46924f8",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "sip bagus"
+    },
+    {
+      "id": "f6625813-851d-48ec-af38-7578b0bdfedf",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagus banget"
+    },
+    {
+      "id": "15148cc3-1e78-4eba-a653-7783a6a18dee",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "suka aj sama promo dan rasa kopi kopi nya enak"
+    },
+    {
+      "id": "64d7ccf7-06b5-42cb-8a3b-c3d1385a4579",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "varian bnyak jadi g bosen meski tiap hari🤩"
+    },
+    {
+      "id": "eb0078a0-8c2a-4b9a-a275-221ed824b755",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "suka🤩"
+    },
+    {
+      "id": "1909978e-8755-404d-8e4a-db66ecf579bc",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "aku sih yes"
+    },
+    {
+      "id": "4532ca85-edb5-4ef7-8d40-6395629474e7",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagusss banyak promo dan pelayanannya menurut gw lebih enakan disini, kyk ada privillage tersedniri"
+    },
+    {
+      "id": "e7e31026-ea92-4520-8c79-99eaf18cc71e",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi paling mantapp"
+    },
+    {
+      "id": "7a5af8d7-f388-4059-8580-d9407901ec7a",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi nya muanteppp apalagi yg bikin mantep kelas😂"
+    },
+    {
+      "id": "a6e689ec-f775-4ec3-9140-f656a0af8104",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "gajelas udah gabisa pake otp dari sms"
+    },
+    {
+      "id": "530f074a-2c92-45f7-93cb-c27cbd9eec25",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantapssss pokoknyaa"
+    },
+    {
+      "id": "151ad6df-80aa-4025-bffc-e7a90f4112f3",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopinya enak pelayanannya bagus dan sering dapet promo"
+    },
+    {
+      "id": "73ddb9d8-c9a9-40e1-8157-efed398227c9",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "554f446d-aadf-47be-8533-84035e1340aa",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kerenn"
+    },
+    {
+      "id": "0fd0671c-d2d7-4eba-a767-c347737bb60b",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "nyaman banget nongki di sini"
+    },
+    {
+      "id": "b3e9b13c-e3f7-4ae8-baa0-fc26ab09f39f",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopinya mantap tempatnya nyaman buat ngumpul bareng temen"
+    },
+    {
+      "id": "92737692-c905-4ef5-be16-f7ef73500641",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "sejauh ini sangat memuaskan untuk pecinta Coffee. 🫶"
+    },
+    {
+      "id": "0caccdf1-0c70-4d3a-9931-216416d1a33b",
+      "source": "Play Store",
+      "date": "2026-06-17",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap👍"
+    },
+    {
+      "id": "2a93014d-b058-4d32-8ec0-e6f83a22ebe6",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "pesen pick up buat jam 20:00, dateng ke sana jam 20:20 pesenan belum jadi, nunggu 30 menit pas ditanya ternyata belum di bikinin juga fungsi nya menu pick up apa yah ?"
+    },
+    {
+      "id": "121d9ada-970a-424d-b455-1012e08e216d",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "fcebb246-e540-480a-a8a0-74abfb6e512f",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "sangat suka"
+    },
+    {
+      "id": "c6ec4dc2-26fa-4abf-bb2d-4f691183217d",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mudah digunakan"
+    },
+    {
+      "id": "10e4a2f8-2e34-4a18-ae56-c4a84e15ddc8",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "sangat suka dengan pelayanannya"
+    },
+    {
+      "id": "8d5a2fe7-9272-4922-af38-81b9e916d1c0",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "KKM the best sihhh"
+    },
+    {
+      "id": "32a8fb56-c87f-4ab2-a5fb-0dd043d5dd19",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "nice"
+    },
+    {
+      "id": "9c4425db-144f-4c79-832b-5c0bc08411a1",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "awesome"
+    },
+    {
+      "id": "efba2b54-74af-413c-addd-168a5de3861e",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "gacor"
+    },
+    {
+      "id": "35abda83-0afa-4fe0-bc70-c301c56d3026",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "76cd1419-e158-433f-bac3-44e58a9216f8",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak kopinya😋"
+    },
+    {
+      "id": "0728ea2c-d58f-46b2-85f7-647903bba0e7",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagus sekali"
+    },
+    {
+      "id": "8440c823-d618-4d6b-a514-1815ca4378c3",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagusss"
+    },
+    {
+      "id": "27b2d069-d998-4172-8f6f-4f24458b0ca8",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ngebantu bgt KLO lg buru² pgn ngopi pesen drmh nnti sekalian lewat tinggal ambil di outlet"
+    },
+    {
+      "id": "e10557d3-35e4-4ce4-9eb7-354cb0e400d3",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kasir nya ramah ramah"
+    },
+    {
+      "id": "6d06806d-0417-4e30-938d-1f91f48f0ae5",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Bagus"
+    },
+    {
+      "id": "86aa5c44-bcf8-4e8b-8c05-23d8bb1c2614",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopinya enak bngt wajib cobain"
+    },
+    {
+      "id": "af1d631f-2eed-47d8-a868-bd39d5a3b010",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "BANYAKIN DISKON 50% HEHWHWHWH"
+    },
+    {
+      "id": "2931b264-63ec-4539-a00f-34353060a509",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopinya bikin nagih"
+    },
+    {
+      "id": "46e112da-c5e2-45aa-85bd-b9948f42e6ab",
+      "source": "Play Store",
+      "date": "2026-06-16",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good"
+    },
+    {
+      "id": "f8d5012b-b782-4bde-9210-4c132f5d144e",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Sangat memudahkan. Saya biasanya d jalan order. Biar sampai tempat udh jadi tinggal ambil."
+    },
+    {
+      "id": "03d1a74d-1abd-48c8-a29e-2df0ba358b58",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Beli kopi dan camilan dengan cepat. rasa enak."
+    },
+    {
+      "id": "05bd66bd-b90a-4794-bc59-9f91ebcca6c5",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi nya enak varian lain baik kopi atau non kopi juga enak"
+    },
+    {
+      "id": "d97f48b8-2149-4877-a072-5c28a7650147",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak"
+    },
+    {
+      "id": "cea39e8a-3518-4a5a-a549-ccbfcb4843ab",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "lovyu kopken"
+    },
+    {
+      "id": "b0bd819d-1414-48ed-8562-6a69143a6d79",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "fitur Pickup di aplikasi tidak akurat terkait estimasi pengambilan. Perlu ditingkatkan terkait ketepatan waktu ambil."
+    },
+    {
+      "id": "921967f7-74eb-4043-a87d-df71a4e22423",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi kesukaan... harga ok rasa ok pelayanan ok the best buat akuu..."
+    },
+    {
+      "id": "55a82d34-7341-48d7-ad5f-dd3582182505",
+      "source": "Play Store",
+      "date": "2026-06-15",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "pelayanannya sangat re amah"
+    },
+    {
+      "id": "44f6e7ba-053a-4496-b8c7-beb6ad894602",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi favorit ini"
+    },
+    {
+      "id": "b1d85a8c-7a07-4292-91ea-5f52d3415d97",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "endull"
+    },
+    {
+      "id": "f9e9fda3-04ce-4a65-9338-12bfc55a8ad0",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "terimakasih jadi teman saat jenuh"
+    },
+    {
+      "id": "145f354c-22fa-4d77-a006-5f0b078e99e3",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ok"
+    },
+    {
+      "id": "acd36125-0bb2-4e6b-99cf-cd7dd1d2dd3b",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "gooodd"
+    },
+    {
+      "id": "f80f12d4-e0c4-4923-b800-3eb91e789b5d",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ok oi"
+    },
+    {
+      "id": "53847e8f-2949-4093-ad94-2e0e40a58253",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Kasir untuk Customer servicenya kurang baik menyambut customer"
+    },
+    {
+      "id": "465d7637-d300-4908-84a0-57c14896feae",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "2a74f6e1-a4c1-4f9f-9ed7-0bf1e535a140",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good"
+    },
+    {
+      "id": "2a822608-1102-46cf-af6f-2a86e981e4a4",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "pertahankan rasa harga pelayanan"
+    },
+    {
+      "id": "32f0008d-801b-4316-8355-b9a3bdda96ee",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good"
+    },
+    {
+      "id": "955a05b1-e517-40c8-a6e2-7efd3999a480",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "sangat mantap dan harga terjangkau"
+    },
+    {
+      "id": "7d830783-b04b-4032-b762-5cd3125b8e1c",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempatnya nyaman sekali"
+    },
+    {
+      "id": "17643f58-55e8-405b-bd1e-200e2154d0f8",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi dan rotinya mantap"
+    },
+    {
+      "id": "7ab91d31-2782-4e0f-871c-efb334c63223",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Respon aplikasi cepat, sangat bagus,"
+    },
+    {
+      "id": "ee491c80-9a49-45d5-a885-90f70b4c7cc5",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagus bisa dapat promo"
+    },
+    {
+      "id": "268ed4b6-0845-4414-a090-a3da313c46f5",
+      "source": "Play Store",
+      "date": "2026-06-14",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "nyaman banget plsss"
+    },
+    {
+      "id": "13ab15ad-13e6-4275-9a9b-1af34a1c71f9",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak suka nikmat"
+    },
+    {
+      "id": "b2291cea-e304-44c3-a223-a3837bf3424b",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "salah 1 t4 fav buat nongki bareng pasangan"
+    },
+    {
+      "id": "2db932e3-7d4d-4475-b3fd-c631da14e29c",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "nyaman"
+    },
+    {
+      "id": "096e36c4-ec43-415f-b1af-b623eba1965b",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "aplikasinya sangat membantu"
+    },
+    {
+      "id": "5f9fd28f-aacd-464f-8946-63850eed10d8",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "keren"
+    },
+    {
+      "id": "56c6645c-fc39-4e10-b1c3-691458ca1143",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "salah pilih outlet gk bisa balikin voucher"
+    },
+    {
+      "id": "53f6551f-e276-4008-bf65-d7e7aba53c35",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempat ngopi nyaman dengan harga terjangkau"
+    },
+    {
+      "id": "754b8cad-91c3-4d83-a00a-ff005715ed2e",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "memudahkann dan banyak promoo"
+    },
+    {
+      "id": "46d31b16-73aa-4dd1-81bb-dfc0418506cd",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi pilihan keluarga"
+    },
+    {
+      "id": "7d846189-b513-4d80-8fba-f5262c412935",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ok mantep"
+    },
+    {
+      "id": "e8ab5508-f76b-4fdb-a2fb-9e2138a2970d",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good food, good mood"
+    },
+    {
+      "id": "aa081d91-ee84-42ff-a7c7-30f9d2375014",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mudah di dapatkan dan semakin seger"
+    },
+    {
+      "id": "eae598d1-f92c-485e-80a6-13a8c8f488e6",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Aplikasinya bagus dan cepat"
+    },
+    {
+      "id": "644ac68a-afda-4863-a932-76bcdafff52a",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "the best"
+    },
+    {
+      "id": "9ece2a16-cb84-4a8a-9468-1bda63cbbff4",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantab"
+    },
+    {
+      "id": "df27e9eb-872f-4752-ab5c-a7a429bfec25",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mudah di cari gerai nya banyak ada dimana2 dan nyaman tempatnya."
+    },
+    {
+      "id": "62063c38-66ac-4e46-b36b-0b0fd3c85bbe",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "keren"
+    },
+    {
+      "id": "517f8310-1025-47e8-8156-6571c7550f0c",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "hhi cinta bgt sama cs nya, minta solusi malah pea wkwk luve uu"
+    },
+    {
+      "id": "01143d5f-e86c-4aa0-8d27-2ea8a5823f79",
+      "source": "Play Store",
+      "date": "2026-06-13",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopinya benar2 enak"
+    },
+    {
+      "id": "52775c09-7462-4fcf-b516-40aae7513974",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi nya enak, mantrap pokoknya"
+    },
+    {
+      "id": "3e93fa6d-ff85-4765-8b2c-df73e1b8d6d5",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Pesen disini kalap banget soalnya banyak promo nya, jadi lebih hemat kalau mau ngopiii"
+    },
+    {
+      "id": "0618f89c-abac-481d-87a0-6d2114741183",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "no caption, cinta banget sama kopken"
+    },
+    {
+      "id": "3f8c3ad0-be84-45a9-869c-f99fc25db814",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap kopi Kenanga😇"
+    },
+    {
+      "id": "195b8dac-1160-42d2-a762-827dc06cf350",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mknyoZz"
+    },
+    {
+      "id": "1630cbf7-c7c1-431b-a007-a7b63f221001",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "puas banget"
+    },
+    {
+      "id": "14509d42-ca88-492b-a5c8-f26097c7da6b",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantaappp"
+    },
+    {
+      "id": "d977b6f7-36a4-46ba-b7d3-025053da4f2f",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "suasananya nyaman"
+    },
+    {
+      "id": "3bfe3013-b18f-4741-b481-cb21ff705895",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good coffe"
+    },
+    {
+      "id": "c01d57ba-f247-4560-8cef-514e2d88aee6",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "selalu enakkk"
+    },
+    {
+      "id": "efdaa309-d0bb-4e3d-b0f0-c86261722d3e",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "taste kopinya buat saya cocok dan enak"
+    },
+    {
+      "id": "96671350-9ee7-4f3a-8a67-6669aa56ccbd",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "beli voucher didana varian choco caramel tapi stock nya gk ada terus terus gak bisa direfund lagi.Rugi banget"
+    },
+    {
+      "id": "d690c833-c7cd-430f-9911-53c04649419e",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Saya belanja di Outlet Ruko Serang via aplikasi... pengiriman terkendala, malah adminnya minta saya kirim driver lain.. padahal saya sudah bayar driver via aplikasi. Layanan pengaduan pelanggan di WA nya juga sangat slow respon.... aplikasi ini sangat tidak direkomendasikan!!!! harusnya ada fitur cancel biar customer tidak dirugikan.."
+    },
+    {
+      "id": "c8908811-be5d-4539-ab85-7ea303f0a88d",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "selalu langganan d kopi kenangan citra 8 setelah jogging pelayanan ny ramah n cepat kopi ny jg enak bngt n gk bkin kembung pdhl suami sy pny asam lambung"
+    },
+    {
+      "id": "28cc7086-6641-46bd-8080-597f5cef99dc",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "pelayanan bintang 1"
+    },
+    {
+      "id": "f12ecf84-11c0-46b4-abdb-bf11506f4d5e",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "b84748e9-61d1-4c50-ab90-d3673b49dd39",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi nya enak pelayan ramah"
+    },
+    {
+      "id": "794b6b37-c067-4206-9ba2-1a49712c9a1b",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "aplikasi kopi kenangan membantu 🔂 penikmat kopi dgn vocher diskon yg lumayan terjangkau dompet"
+    },
+    {
+      "id": "a677e775-68e6-4ac8-8467-3d503709be5b",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "pulang kerja emng nek ngopi 🤣"
+    },
+    {
+      "id": "61764dbc-fabf-459d-903f-7efc111314dd",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak"
+    },
+    {
+      "id": "11918bcc-c322-426c-918f-db7d8bc1dece",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak"
+    },
+    {
+      "id": "cb1405a6-02d8-4ed0-bc1a-8686d6ef68e5",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi kenangan is the best"
+    },
+    {
+      "id": "ddf68e5a-61b9-480e-afe5-fc8022224577",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempat nyaman"
+    },
+    {
+      "id": "8dd98bcb-d53c-4d8a-8e37-0cbb87d81044",
+      "source": "Play Store",
+      "date": "2026-06-12",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "07f9de43-4090-410f-acab-42c92ea4ed21",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ok"
+    },
+    {
+      "id": "de202e47-a125-4f24-8fff-10562a911ba1",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kerenn dan mantap"
+    },
+    {
+      "id": "84dac685-c405-49f0-b44a-c7cd0e8c7df7",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "8a047a4a-d1fb-4273-89b8-797e94bbfede",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "apk ini sangat bermanfaat, love u kopken🤎"
+    },
+    {
+      "id": "49dd9ec6-9abb-43a4-b879-94264af13cf3",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "baik banget"
+    },
+    {
+      "id": "0d360734-fbdd-43cc-b717-6d6f1ec9d078",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "baikkk"
+    },
+    {
+      "id": "54100553-86b2-493c-9be0-024f48b3d2ae",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bnyak promo"
+    },
+    {
+      "id": "b83c3e2a-4bb3-46d6-ba6d-3add2a9913c0",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "secinta itu aku sama kopinya"
+    },
+    {
+      "id": "f1763d65-3ded-419a-8721-9e21ee3f13e3",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ok banget"
+    },
+    {
+      "id": "344f0e04-23c1-435d-885a-18b0a44f4d31",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good"
+    },
+    {
+      "id": "07a4faac-f767-4ad7-92f6-a6bac5b40a19",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak"
+    },
+    {
+      "id": "d709d4b1-1c26-48ea-b40b-4da413ef41fd",
+      "source": "Play Store",
+      "date": "2026-06-11",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mudah dipahami.."
+    },
+    {
+      "id": "4228980e-3e42-45be-b912-36c9a6c9603b",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "banyak promo dan tempat yang memadai"
+    },
+    {
+      "id": "74e2cc2d-4511-4367-8980-2d32a8564349",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "jujur semua makanan and minumannya enak, pelayanan super super banget"
+    },
+    {
+      "id": "d6d35aa3-1ef6-4e0a-9bf7-f9aea00a9dbb",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagus"
+    },
+    {
+      "id": "f2df21a9-be36-4787-99e5-e09516f08986",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak banget kopi nya"
+    },
+    {
+      "id": "9a7efa9b-47c2-4153-911b-c3f88e1b49a4",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "salah satu kopi yang cocok banget di lidah"
+    },
+    {
+      "id": "2c0f32b4-bf3e-46c3-b3f5-897bdb67ca03",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kkokpkenn sgt nyaman buat nugasz"
+    },
+    {
+      "id": "a998ffae-2406-42cc-b9ca-07316349862d",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempatnyaa enakinn"
+    },
+    {
+      "id": "5ae626fb-6f1c-4725-a226-bbfc702324b6",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kren, terus kasih terbaik kwalitas kopi dan pelayanannya"
+    },
+    {
+      "id": "8fac5f36-b10f-446d-b9f6-cbdbb34e2f5f",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good"
+    },
+    {
+      "id": "bc5e0437-648c-4d76-b49c-68814ef9457d",
+      "source": "Play Store",
+      "date": "2026-06-10",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "wow"
+    },
+    {
+      "id": "465fd8b1-7a47-4666-bffc-10f215d94994",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempat nya bagus dan keren"
+    },
+    {
+      "id": "47e51165-69f2-4049-bd34-a8ae4f8a2175",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ya suka nongkrong aja sambil ngupi 😁"
+    },
+    {
+      "id": "70b1d8c9-97f3-4b03-8740-7672c385f955",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "All goods"
+    },
+    {
+      "id": "9750af3a-b747-433d-8da7-c5a765d2e46f",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "njayyy"
+    },
+    {
+      "id": "46d991dd-7d1a-44fd-8715-a5e05b4b3214",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ok. banget"
+    },
+    {
+      "id": "39497b80-4944-4d2a-9608-3e1ec1671270",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "App nya bagus"
+    },
+    {
+      "id": "efd40126-0a12-44b1-bb96-8508d0843a85",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "mantebbbb"
+    },
+    {
+      "id": "6f260922-5be6-4381-96e1-d208cc6db158",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagus banget tempatnya nyaman"
+    },
+    {
+      "id": "3f21216f-3232-4174-909a-f1dcf5ae3a31",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempat yang nyaman untuk ngobrol"
+    },
+    {
+      "id": "06133325-f4cc-44be-b606-7aa24c1d4dc5",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantappp"
+    },
+    {
+      "id": "5e12ef7e-2456-4e4f-ac89-c63c9a240bcb",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "c1a959b3-6659-4df8-bda5-c89a8158c0f9",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi nya mantap"
+    },
+    {
+      "id": "29862112-7ad7-4acd-a664-d4a7c7227829",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "ab55591a-41da-4481-8bd5-1cb1814431d5",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ok pokoke"
+    },
+    {
+      "id": "dc570a5b-2e22-498d-a6fa-bf25f2f4a659",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "suka aja sama kopi kenangan rasa nya oke, harganya pas"
+    },
+    {
+      "id": "0c8c0c7b-5350-4c7f-a045-e7492bd7a029",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "enak enak"
+    },
+    {
+      "id": "8adb2c03-df8b-4e10-b845-96646183d64d",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "good apk"
+    },
+    {
+      "id": "adb32d50-d835-4656-8107-06332b4e79bc",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "mantap"
+    },
+    {
+      "id": "4e30cf9a-6d07-4689-9bec-bfd44b9d0734",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "tolong dari pihak kopi kenangan, pesanan xpress itu langsung dibuat jangan menunggu driver datang baru di buat, bukan layanan grabfood ni tunggu datang driver baru di buat, ni baristanya lama lelet kali"
+    },
+    {
+      "id": "e7deedfa-407e-4180-ac47-bf0a1bb682e8",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bagus"
+    },
+    {
+      "id": "b97f7089-1420-442f-b52c-399490e8aa9a",
+      "source": "Play Store",
+      "date": "2026-06-09",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Aplikasi yang paling bagus banget saya bisa mencari makanan dan minuman dimana saja 🍱🍵"
+    }
+  ]
+}

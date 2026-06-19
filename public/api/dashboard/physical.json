@@ -1,0 +1,1444 @@
+{
+  "mapsAspectData": [
+    {
+      "aspect": "Taste / Quality",
+      "positive": 13,
+      "neutral": 26,
+      "negative": 62
+    },
+    {
+      "aspect": "Price & Promos",
+      "positive": 34,
+      "neutral": 9,
+      "negative": 57
+    },
+    {
+      "aspect": "Staff Service",
+      "positive": 17,
+      "neutral": 25,
+      "negative": 57
+    },
+    {
+      "aspect": "Service Speed",
+      "positive": 12,
+      "neutral": 13,
+      "negative": 75
+    },
+    {
+      "aspect": "Cleanliness",
+      "positive": 37,
+      "neutral": 11,
+      "negative": 52
+    },
+    {
+      "aspect": "Menu Availability",
+      "positive": 24,
+      "neutral": 11,
+      "negative": 65
+    },
+    {
+      "aspect": "UI/UX & Performance",
+      "positive": 4,
+      "neutral": 69,
+      "negative": 27
+    }
+  ],
+  "storePerformance": {
+    "top": [
+      {
+        "store": "KopiKenangan-RukoIrHJuanda3Jakarta",
+        "score": 91
+      },
+      {
+        "store": "KopiKenangan-RukoSawahBesar",
+        "score": 90
+      },
+      {
+        "store": "KopiKenangan-RukoSabangJakartaPusat",
+        "score": 88
+      },
+      {
+        "store": "KopiKenangan-RukoPecenonganJakartaPusat",
+        "score": 85
+      },
+      {
+        "store": "KopiKenangan-RukoPuriUtamaCipondoh",
+        "score": 84
+      }
+    ],
+    "bottom": [
+      {
+        "store": "KopiKenangan-RukoGreenville",
+        "score": 60
+      },
+      {
+        "store": "KopiKenangan-PlazaBintaroSatoe(Superindo)",
+        "score": 68
+      },
+      {
+        "store": "KopiKenangan-RukoBendunganHilir(FCK)",
+        "score": 69
+      },
+      {
+        "store": "KopiKenangan-RafflesSquareJuandaJakarta",
+        "score": 72
+      },
+      {
+        "store": "KopiKenangan-RCVeteran(DriveThru)",
+        "score": 72
+      }
+    ]
+  },
+  "reviewsTable": [
+    {
+      "id": "maps-0",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Sekarang udah jadi Kenangan boulangerie, semakin keren tempatnya dan lebih banyak pilihan rotinya. Ada mesin untuk self order juga. Ada banyak colokan juga buat yang mau sambil wfc. Kopi nya juga makin banyak pilihan walau kopi kenangan mantan masih jadi favorit 😄 … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-1",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Outlet kopi kenangan versi premium... The best banget pelayanan dan suasananya. Sangat mewah\nJenis pe…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-2",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kalo makan siang sering beli kopken walaupun antrian panjang banget tapi pelayanannya tetep gercep salut banget👍kopinya juga enakkk banget😋🫰 … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-3",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Semuanya pasti udh pd tau sm KopKen kan..\nUtk tempatnya di sini bagus/cozy, mirip kafe sekelas st*rb*cks, enak utk meet-up dgn tmn2, & dgn harga yg lbh affordable. Cm kl hr Minggu, suka rame bgt susah dpt tempat.. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-4",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Pilihan kopi yg menyenangkan dengan harga standar di tengah2 mall yg memiliki banyak gerai dgn harga lbh mahal. Rasa2nya baru kali ini saya melihat KopKen dengan tempat duduk yg cukup banyak dan interior yg cantik di mall. Atau mgkn sayanya … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-5",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tolong yang cuma mau ngopi sendiri jangan ambil space sofa yang satu meja bisa ber 4, mubazir aja itu 3 tempat duduk harus kosong bisa lebih dari setengah jam",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-6",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Order kopi kenangan di kokas ini LIGHT BANGET rasanya dan WARNA nya pucet banget, saya hampir setiap hari beli di outlet lain kopi kenangan minta sugar 25ml warna nya ga gini dam kopi nya terasa. … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-7",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Gw penasaran dgn kopi dubai nya cab kokas wkt kemarin gw sdh beli di cab tebet lalu gw belilah di jam 8:40 malam. Gw perhatiin barista buat kopinya. Gw kaget. Saat di aduk kopi yg pny gw. Baristanya aduk pake gagang centong . Sumpah jorok. … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-8",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Selalu bangga dengan brand lokal yang sekeren kopi kenangan\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-9",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Nah kali ini ada inovasi menu dari @kopikenangan , yang akhirnya keluarin produk makanan @ceritaroti … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-10",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Pas ke sini rame banget, hampir semua meja full untuk kebagian meja. Kebetulan lagi ada promo beli 2 kenangan milk tea boba free milo dinosaurus, jadi aku pilih aja yg itu. Kenangan milk teanya oke, manisnya oke, aroma tehnya masih kerasa, bobanya juga enak. Milo dinosaurusnya juga enak, milonya bold rasanya.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-11",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Tempatnya ckp luas, enakeun buat nongki (sendiri ato sm temen jg okeh) sambil liat lalu lalang rangorang, depannya srg dibuat tempat temporarily event. Menu selain minumannya lbh byk drpd outlet lain yg sdh sy kunjungi, ada bread, cake, jg dessert. Tp mehong2 cyinnt wkwkwk. Kenangan mantan pake grass jelly msh jd favorit.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-12",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Gak pernah gagal rasa kopi buatan barista disini bneran enak maygattt sesuai request !\nJadi tempat favorite wfc staffnya jga ramah tempatnya very comfort 🥰🥰🥰 … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-13",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Overated. Orderan saya salah. Yang bikin gak peduli. Akhirnya dibuat ulang sama si kasir. Ditanya ukuran large segini? Dijawab iyah... gk ada rasa. Well... ada harga ada barang la yah. 20k buat large. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-14",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Beli disini harga terjangkau,ya dibandingkan dengan resto atau coffee shop yang berada di mall ini tentu sangat kompetitif harganya.Tidak mengurangi kualitas dan pelayanan tentu memuaskan.btw ini dibawa pulang aja karena ga sempat untuk nongkrong di sana. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-15",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Suka banget sama cita rasa Kopi Kenangan ini. Selain namanya yang pasti bikin baper, harganya yang terjangkau bikin orang rela antre panjang biar bisa menikmati minuman ini. Campuran gula aren dan kopi yang jadi bahan dasar Kopi Kenangan … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-16",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Akhirnya kopi kenangan open di Kota Kasablanka.\nKopi kenangan berada di food society, bersatu dengan restaurant The Common. Rasanya cukup enak, tidak terlalu manis akan tetapi sedikit pahit. Untuk harganya … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-17",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Kesini hanya beli titipan enyah roti isi daging asap kejunya. Gw suka juga roti isi ini,cukup oke. Kopi kenangan di kokas banyak pilihan pastri,roti,dan snacknya. Jadi bukan kopi aja. Pelayanan oke. Sayangnya disini gak ada smoking areanya. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-18",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi yang enak dan gak bisa dilupakan seperti kenangan. Pas bener namanya.  Dengan harga yang terjangkau.\nBeli kopi kenangan kita bisa dapat diskon 10% untuk croissant di restaurant the common. Karena ada di satu lingkungan.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-19",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Nyobain promo oatside latte. Encer bangettt rasanya kaya kebanyakan air, padahal es batu masi banyak (belum mencair semua). Kapok jadinya. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-20",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Outlet kopi kenangan yang nyaman untuk ngopi cantik bersama sahabat, agak padat sehingga harus sabar untuk memperoleh tempat duduk. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-21",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Kopi seperti biasa enak. Tapi mohon untuk beberapa karyawan terutama yang laki2 di didik lagi, penampilan bagus tapi etika kurang. Contoh saat memberi pesanan ke customer matanya kemana2, bahkan ketika kasih pesanan ke saya ga langsung … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-22",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Pesen Pandan Aren Thai Tea pas promo kemerdekaan. Rasanya bukan Thai Tea tapi jatohnya lebih mirip milk tea entah karna banjir susu kental manis atau creamer. Dari warnanya bukan orange kayak Thai Tea pada umumnya, ini jadinya orange muda … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-23",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Gak punya attitude pelayan yg namanya EZA tolong lah Kopken di didik lagi pelayanan yg di kokas. Saya beli kopi ini di tempat yg bukan di Mall gini gak ada yg gak sopan. Mending gausa kerja si EZA itu Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-24",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Akhirnya nyobain juga yg versi Matcha sambil kerja bentar di sofa. Saya pesan yg Matcha espresso, uda minta less sweet tp tetep aja kemanisan untuk saya.. huhu. … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-25",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Dapat orderan dari Benhil, sampe resto sekitar 30 menit lebih, sampe resto  aplikasi ga aktif.\nParah",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-26",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "tolong yang namanya EZA diajarin adab sama pelanggan ya. sama customer kaya ngajak ribut. saya beli. bukan ngemis. tolong dong jangan karena oknum nama kopi kenangan jadi buruk Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-27",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Pas datang, hanya tersisa 1 meja. Saya minta tolong bersihin meja kepada petugasnya, karena kondisinya kotor sekali. Sampahnya malah didorong ke saya bukan diangkat, padahal bawa tray sampah. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-28",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Sampai crosscheck berkali-kali ini beneran oatside ga ya, plis banget ini hambar gaada rasa samsek kaya air + kopi susu sachet beda banget sama cab. lain , kecewa :( Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-29",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "gak ada respect sama pelanggan. pesen takeaway, kopi sudah jadi dan siap tapi malah ditaruh di atas mesin kopi bukannya ditaruh di counter. sementara kita udah nunggu lama banget berdiri dicuekin. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-30",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "kopi dan rotinya, gak usah diraguin lagi, enak.\npelayanannya juga enak.\nnowadays, banyak orang nongkrong di kopken sambil kerja remote termasuk gw. … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-31",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Ini mah kopi kesukaan dan jugq langganan saya, pesen yg menu kopi kenangan mantan! Wiw rasanya jd bisa move on dengan mantan hehehe... harganya standard Jakarta kok, saya pesan yg ukuran besar! … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-32",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat ngopi murah di kokas. Kopi kenngan sellu jadi pilihan pas dikantong buat gue sebagai kaum low badget. Yang menariknya meskipun harga murah namun pelyanan tetap best of the best, dan store kokas ini cukup cozy. Just hope semoga kopi kenangan semakin jaya dan ramai terus. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-33",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Area yang luas, nyaman, cocok buat tenangin diri sendiri, hehe...\nPelayanan Cepat dan Ramah pada umumnya. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-34",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Outlet kopi kenangan di Kota Kasablanka sangat nyaman karena ada tempat duduk dan di sebelahnya ada pilihan jajanan. Semacam mini food corners.  Letaknya di Food Society bawah, sangat mudah dicari. … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-35",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Recommended for sure…‼️‼️‼️\n\nAvocado Coffee (Oatside Milk) No Sugar…. … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-36",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Sy beli americano,normal sugar mnrt sy krg manis sdkt bgt utk racikanya jd sy mnta tambh sdkt gula fyi sy srg req add sugar d bbrpa outlet tdk ada charge ya tp d sini kok ada ya pdhl sy mnta jg nggk banyak kok sangat disayangkan utk pelayananya😝 … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-37",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi Kenangan Mantannya masih konsisten sih sejak awal disetiap cabang. Ordernya lewat aplikasi Kopi Kenangan, free upsize. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-38",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Saya pesen lewat apps KK, saya salah pilih jadwal pick up, saya WA ke CS gak guna, akhirnya saya minta tolong ke kasir an mba anisha untuk bisa  d ambil jam 3, dan mas tirta served me very well … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-39",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Ngopi hemat di mall ya tetep kopi kenangan. Harga murah dan kopinya enak.\nTempatny nyaman banyak tersedia tempat duduk dan bersih Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-40",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Sudah jauh lebih baik taste nya dibanding awal buka beberapa tahun yll, cm sellernya bikin males deh masa order saya gak dipanggil namanya... Emangnya mau dimaling apa pesanan saya... Dasar staff aneh Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-41",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Rasa kopinya sama seperti kopi kenangan pada umumnya yang suka saya beli, enak. Tapi tadi siang sekitar jam setengah 11 saya beli ice americano di kopken kokas pelayan perempuan yang pakai kerudung bnr2 bad attitude. Pertama saya salah … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-42",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Rasa lumayan,harga antara rp. 5000 s/d  rp. 42.000, biasanya jam istirahat kantor akan ramai sehingga antrian panjang. Pelayanan ramah",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-43",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Selaluu rame.... tp enaak klo dah duduk dsana jd lupa waktuu😂😂 …\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-44",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Caramel Latte yang normal agak terlalu manis, untuk yang kurang suka manis bisa minta less sugar. Kopi kenangan mantan enak, manisnya pas.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-45",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi nya enak tapi terlalu manis, harga nya oke",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-46",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi & Roti nya 👍\nEnak buat nongkrong klo weekdays …\nJenis pesanan\nBawa p…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-47",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi favorit saya uda 3 thn terakhir,\nJenis pesanan\nBawa pulang…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-48",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Menikmati minuman pelepas kantuk dan lelah setelah berjalan mengantar keluarga refresing dan berbelanja...",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-49",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi kenangan, salah satu kopi favorit saya. Dengan harga yg terbilang murah u/ kopi kekinian, rasa yg ditawarkan tidak lah murahan. Setiap hari minggu, tempat ini tidak pernah sepi.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-50",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "banyak variasi foodnya👍🏻 …\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-51",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Avocado coffee dan kopi kenangan mantan jadi menu fav nya aku, nongkrong sambil minum kopi kenangan ditemani live music...mantappp Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-52",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Sy mau beli lewat counter. Tp ga ada karyawan yg gubris atau nyahutin sy ngomong. Padahal sy sudah bilang mas mau pesan\nTp mas2 kasir tetep otak atik monitor dan kembali ke mesin sealing dan masuk2in … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-53",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Sebenarnya makanan dan situasi cafenya bagus dan bersih. Namun pelayanannya perluuu ditingkatkan, terutama pramusaji perempuan yang kerja hari Sabtu tanggal 18 Mei 2024 jam 10.00 pagi. Jutek parah, nggak ngajarin sama sekali pakai aplikasi kopi kenangan, ditinggalin begitu aja. Apa ada masalah hidup dianya. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-54",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopinya enak sesuai selera\nTempatnya nyaman dan bersih\nEnak buat nongkrong\n🌟🌟🌟🌟🌟 …\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-55",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Wah paling rame nih… protokol CHSEnya lengkap….👍👍 …",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-56",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "seperti biasa, kopken jadi tempat nyaman kalo mau nongkrong atau laptopan\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-57",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Ngopi d ngobrol cocok dengan tempt di dalam mall casa grande\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-58",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Cuek parah mau redem promo katanya abis padahal di apk ready padahal udaha bayar malah diarahin ke store lain gajelas !!",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-59",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "ramai trus mantap\nMakanan: 5\nLayanan:…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-60",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Lumayan ada tempat duduknya nyaman sambil nunggu kopi\nJenis pesanan\nBawa…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-61",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopinya enak, letaknya di the common kokas, tiap kesini selalu antri karena peminatnya banyak. pelayanannya cepat",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-62",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Pilihan kopi dan rotinya enak",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-63",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Aku suka banget beli kopi kenangan sama rotinya. Kayaknya padu padannya tuh pas gitu, ngeyangin juga. Tapi, aku kepo aja sih sedikit, apa kopi kenangan bikin roti sendiri apa gimana? Dan kualitas dari bahan-bahannya bisa dilihat di mana ya? Makasih.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-64",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Harus cobain yang bobanya teh susu nya worth it dengan harga 20k enach bgt gaboong",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-65",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Aku suka beli kopi sama rotinya kopken, enakkk. Tapi penasaran soal bahan bakunya, soalnya baru baca tentang kandang baterai ngeri bangett. Kan biasanya roti pake telor tuh, penasaran telornya masih dari kandang baterai juga gak?",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-66",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "kopi paling cocok ini, cuma kekurangannya kalo weekend antrian pas lagi panjang yg bikin kopi masih bisa sambil bercanda dan ngobrol2 sm staff lain tanpa liat yg nunggu udahhhh banyak banget astaga dan cuma secup kopi aja nunggunya bisa 20 … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-67",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Selalu antri, tapi pelayanan oke, rasa kopi enak terutama kopi kenangan mantan yang emang signaturenya. Baperista (barista) nya juga ramah-ramah. Selalu bayar pakai gopay atau ovo jadi selalu dapat cashback. Bisa juga nongkrong-nongkrong karena ada tempat duduk (meski tidak terlalu banyak).",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-68",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Coffeeshopnya disini ramaii bngt, apalagi klu hari minggu.\nKurang cocok untuk tempat bersantai apalagi untuk membaca buku, karena berisik.\nTempatnya lumayan luas lah. Masuk dari pintu society food lurus sekitar 50M posisinya sebelah kanan. Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-69",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat nongkrong setelah makan siang weekend...\nJenis pesanan\nMakan di t…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-70",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Klo lg sepi enak disini, klo ud rame terima nasib aja cm bs take away\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-71",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Kopinya memang meninggalkan kenangan banget. Suka sekali es kopinya. Adem. Tempatnya bagus dengan desain yang sangat menarik. Cocok buat ngumpul sama teman, sendiri juga asik sambil ngerjain tugas kuliah atau kantor. Pelayanannya juga  cepat. Rekomen banget deh kalo lagi cari tempat kumpul dan bersantai.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-72",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Stupid...\nKelalaian cashier jadi rugi nunggu lama. Bilangnya gak sampai 20menit. Gara2 dia ilangin struknya, pesanan saya sampai kelewat 10 nomor. Nunggu 35menit. Really not recommended",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-73",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Recommended rasa kopi kenangan mantan.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-74",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Usaha bidang jasa, semua sdh harus siap, memberikan pelayanan yg terbaik utk pelanggan. But, No, long queue, slow process, change money not available, non-cash transaction only with minimum IDR30K, insisting paying cash, bear the consequences by paying with the exact amount, ridiculous Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-75",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Always rame, tp gatau kenapa kalo ke kokas gak afdol klo gak ke kopken.\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-76",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat nyaman, kebersihan selalu dijaga di New normal",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-77",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Tempat cukup nyaman. Sayang service perlu peningkatan banyak sekali.\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-78",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Mampir kesini beli es kopi susu mantan di takeaway, sampe sekarang msh suka sih sama rasanya kopi kenangan. Eh gataunya lg dapet timtam juga, 1kopsus 1timtam, mayan buat temen kopinya lol",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-79",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Setiap minuman yg di order es nya bnyak banget,smpe tawar rasanya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-80",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Kasirnya gk fokus. Minta kopi kenangan mantan less sugar, dibuatnya malah less kenangan blend. Berasa cuma minum susu dengan perasa kopi. Rugi bandar Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-81",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Mba dan mas pelayan disini ramah, pelayanan nya cepat, tempat nyaman, kalau soal rasa gausah ditanya lagi kopi kenangan 😍 … Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-82",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat ngopi ramah di kantong diantara kopi sekitarnya yang harganya diluar nurul\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-83",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "kopi nya sangat creamy\nMakanan: 5\nLayanan:…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-84",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Terletak di Mall KoKas Jakarta Indonesia\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-85",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopinya enak.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-86",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kursinya banyak, cukup canggih bisa order langsung dari meja dengan scan qr code via aplikasi kopi kenangan Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-87",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Unik kopinya. Kreatif produk !",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-88",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Mending beli kopi kenangan mantan less sugar di tempat lain. Disini rasa kopinya tidak terasa.\nJenis …\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-89",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Ngopi disini nyaman... Bs kongkow bareng tmn2 & keluarga, skrg kasirnya pindah ke dlm, utk pickup ambilnya didpn kasir yg lama Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-90",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat enak ada banyak Tempat duduk walau wekend selalu penuh\nTarif per orang…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-91",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Arogan banget kasir sama tim nya😡 …",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-92",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Ngopi disini terbaik, Karna dapet banget atmospherenya, tempatnya cozy, baristanya ramah', racikannya pass, pada humble semuanya, sopan dan santun Lainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-93",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Seru sih lokasinya Banyak Tempat duduk , bisa Ngopi sambil Ngobrol, ada rotinya juga Jadi cocok lah ditemanin dng kopi",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-94",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Nyaman, banyak tempat duduknya, tokonya berbarengan dengan toko roti bisa jajan makanan sembari minum kopi",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-95",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "bersih, nyaman, aman\nTarif per orang\nRp 25–50 rb…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-96",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Cocok buat nongkrong di malam hari hihihi\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-97",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempatnya instagramable banget\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-98",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempatnya asyik, minum kopi bareng sama pacar... Yang sekarang udah jadi mantan, dan slalu jadi kenangan yang tak terlupakan",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-99",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Nice coffee. Tp antriannya panjang hehe",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-100",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Pelayanan ramah & cepat, meskipun antrean kalau jam siang lumayan panjang. Dan bisa duduk juga di The Common sambil nunggu pesanan.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-101",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "enak kopinyaaa, tapi kalo kenangan mantan tuh beda cabang, beda barrista, beda rasanya. Kadang 1 cabang, tapi barrista A sama barrista B bikinnya beda, jadi rasanya juga beda.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-102",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 3,
+      "sentiment_class": "Neutral",
+      "review_text": "Rasanya ga enak, ga karuan\nGa berasa kopinya\nMakanan: 3",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-103",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi kenangan di mall ini sangat ramai dan menunggu cukup lama, namun untuk pelayanan dan rasa kopinya tetap.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-104",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Sudah antri 10mnt dikasih tau antriannya beda harus di dalam. Kacau\nMakanan: 1…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-105",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Mallnya besar, protokol kesehatannya sangat baik, untuk dimasa pandemi ini dia menerapkan one way setiap didlam mallnya,",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-106",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Selalu enak!\nJenis pesanan\nBawa pulang…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-107",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Coba itu karyawan dengan tag nam JAY kenangan mantan kota casablanca di didik etika terhadap customer makasih",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-108",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Pelayanan sangat lama, hanya beli 2 cup harus menunggu 55menit\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-109",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Kopinya enakkkk, tempatnya juga cozy\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-110",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Sulit dapat tempat duduk selalu penuhh\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-111",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Always ramai dengan antrian yang bikin mundur beli disitu dan pilih pesan via gojek/grab",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-112",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi enak. Sesuai dgn antriannya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-113",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "tempatnya cozy buat nongki nongki",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-114",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat nongkrong paling enak di kokas\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-115",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Enak buat nongkrong, bisa donlot aplikasinya kopi kenangan buat dapetin promo kopi murah\nJenis pesana…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-116",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Tukang buat kopinya gak ramah.. Gak liat muka orang yang mesen",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-117",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Attitudenya pelayan disini emg pada mines kahh????!!!",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-118",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempatnya luas..asikk bgt buat senderan, ngadem dan selonjoran hehehehehe\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-119",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Lama banget. Tidak siap melayani order customer. Wasting my time.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-120",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Mantap kopi brown sugarnya. Lumayan dapat promo bayar pake Ovo",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-121",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Mantap lah.\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-122",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi yg selalu bikin kenangan, enak rasanya Suka banget sama Kopi kenangan",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-123",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Lumayan antriannya panjang....terbayarkan..sruput...langsung kering",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-124",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Keren\nMakanan: 5\nLayanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-125",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Enak dan nyaman tempatnya\nJenis pesanan\nMakan di tempat",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-126",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Pelayanan ramah, tempatnya nyaman\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-127",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Mantul matap betul pelayanan nya bagus\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-128",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Ada promo OVO 40%, harga 18.000 jadi cuma 11.000",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-129",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Buat kumpul bersama teman yg nyaman\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-130",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Murah meriah untuk kongkow. Buka cukup pagi untuk yang datang pagi²",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-131",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Ngopi santai jadi lebih mantap\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-132",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat asik buat ngobrol dan nugas.\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-133",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Senang ketemu teman² atau saudara sambil ngopi²... tempatnya nyaman\nJenis pesanan…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-134",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Pilihan makanan banyak ,keren\nMakanan: 5…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-135",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Salah minuman 2 kali gimana si\nMakanan: 1…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-136",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Cukup enak, krn pakai jenis gula lain",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-137",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "mall blm buka diaplikasi udah buka LUAR BISA\nMakanan: 1…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-138",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Mantaaappp lah\nMakanan: 5\nLayanan:…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-139",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 4,
+      "sentiment_class": "Positive",
+      "review_text": "Rasa kopinya otentik di setiap outlet\nJenis pesanan\nBawa pulang…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-140",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopi kenangan yg enak d hati",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-141",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Tempatnya kurang bagus!!!\nMakanan: 2…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-142",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat nya Oke\nMakanan: 5\nLayanan:…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-143",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 1,
+      "sentiment_class": "Negative",
+      "review_text": "Nyempil susah dicari plus antrianya selalu panjang.",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-144",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempat bagus, minuman enak\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-145",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Tempatnya nyaman\nJenis pesanan\nMakan di tempat…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-146",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Kopinya enak pas dimulut pas dikantong\nJenis pesanan\nBawa pulang…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-147",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 2,
+      "sentiment_class": "Negative",
+      "review_text": "Pelayanan lama, padahal karyawan banyak",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-148",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Nyaman tempat nya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    },
+    {
+      "id": "maps-149",
+      "source": "Google Maps",
+      "date": "2026-06-19",
+      "rating": 5,
+      "sentiment_class": "Positive",
+      "review_text": "Pelayanan baik dan ramah\nJenis pesanan\nBawa pulang…\nLainnya",
+      "nama_gerai": "Kopi Kenangan - Kota Kasablanka"
+    }
+  ]
+}

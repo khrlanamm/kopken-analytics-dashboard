@@ -1,0 +1,12 @@
+# Core Dependencies
+pandas
+numpy
+joblib
+scikit-learn
+nltk
+PySastrawi
+google-play-scraper
+
+# Optional / Modeling specific
+# torch
+# transformers
