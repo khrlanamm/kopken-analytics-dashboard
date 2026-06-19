@@ -106,6 +106,23 @@ Halaman ini berfokus pada data ulasan Google Maps di wilayah Jabodetabek untuk m
 
 ---
 
+## Panduan Deployment ke Firebase Hosting (Static Export)
+
+Web Analytics Dashboard menggunakan model static HTML export untuk performa maksimal dan efisiensi biaya (dapat di-host secara gratis di paket Spark Firebase).
+
+1. **Jalankan kompilasi data dan pembuatan build produksi Next.js:**
+   ```bash
+   npm run build
+   ```
+   *Script ini secara otomatis menjalankan `node scripts/build-data.js` untuk mengekspor data ML terbaru ke folder static `public/api/` dan mengekspor seluruh kode HTML/CSS ke direktori `out/`.*
+
+2. **Deploy folder build ke Firebase Hosting:**
+   ```bash
+   npx -y firebase-tools@latest deploy --only hosting
+   ```
+
+---
+
 ## Pemecahan Masalah Operasional (Troubleshooting)
 
 * **Mengapa data grafik tidak muncul dan hanya menampilkan loading / error?**
